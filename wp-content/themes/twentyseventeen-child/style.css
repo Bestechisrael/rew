@@ -1,0 +1,11 @@
+/*
+ Theme Name:   twentyseventeen-child
+ Theme URI:    http://www.wpbeginner.com
+ Description:  A Twenty Thirteen child theme 
+ Author:       WPBeginner
+ Author URI:   http://www.wpbeginner.com
+ Template:     twentyseventeen
+ Version:      1.0.0
+*/
+ 
+@import url("../twentythirteen/style.css");
